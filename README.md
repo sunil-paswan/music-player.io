@@ -2,7 +2,7 @@
 Music  player created by using ReactJS  and SASS
 
 #USAGE
-npm install
+cd music/react-player npm install
 
 #To start 
 cd music/react-player
