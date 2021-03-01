@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/music-player.io/static/css/main.05ae90a6.chunk.css",
+    "main.js": "/music-player.io/static/js/main.d8a76c7e.chunk.js",
+    "main.js.map": "/music-player.io/static/js/main.d8a76c7e.chunk.js.map",
+    "runtime-main.js": "/music-player.io/static/js/runtime-main.1cd20e11.js",
+    "runtime-main.js.map": "/music-player.io/static/js/runtime-main.1cd20e11.js.map",
+    "static/js/2.3b05041f.chunk.js": "/music-player.io/static/js/2.3b05041f.chunk.js",
+    "static/js/2.3b05041f.chunk.js.map": "/music-player.io/static/js/2.3b05041f.chunk.js.map",
+    "static/js/3.098f3463.chunk.js": "/music-player.io/static/js/3.098f3463.chunk.js",
+    "static/js/3.098f3463.chunk.js.map": "/music-player.io/static/js/3.098f3463.chunk.js.map",
+    "index.html": "/music-player.io/index.html",
+    "static/css/main.05ae90a6.chunk.css.map": "/music-player.io/static/css/main.05ae90a6.chunk.css.map",
+    "static/js/2.3b05041f.chunk.js.LICENSE.txt": "/music-player.io/static/js/2.3b05041f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cd20e11.js",
+    "static/js/2.3b05041f.chunk.js",
+    "static/css/main.05ae90a6.chunk.css",
+    "static/js/main.d8a76c7e.chunk.js"
+  ]
+}
